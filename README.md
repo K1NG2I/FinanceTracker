@@ -14,18 +14,27 @@ FinanceTracker is a personal finance tracker built with SwiftUI and SwiftData. I
 ## Screenshots
 <table>
   <tr>
-    <td align="center"><img src="screenshots/transactions-income.png" alt="Transactions screen" width="240" /></td>
-    <td align="center"><img src="screenshots/add-expense.png" alt="Add expense sheet" width="240" /></td>
-    <td align="center"><img src="screenshots/add-income.png" alt="Add income sheet" width="240" /></td>
+    <td align="center"><img src="screenshots/IMG_0259.png" alt="Screenshot IMG_0259" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0260.png" alt="Screenshot IMG_0260" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0261.png" alt="Screenshot IMG_0261" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0262.png" alt="Screenshot IMG_0262" width="220" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/add-payment.png" alt="Add payment sheet" width="240" /></td>
-    <td align="center"><img src="screenshots/new-preset.png" alt="New preset sheet" width="240" /></td>
-    <td align="center"><img src="screenshots/month-picker.png" alt="Month picker" width="240" /></td>
+    <td align="center"><img src="screenshots/IMG_0263.png" alt="Screenshot IMG_0263" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0264.png" alt="Screenshot IMG_0264" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0265.png" alt="Screenshot IMG_0265" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0266.png" alt="Screenshot IMG_0266" width="220" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/dashboard.png" alt="Dashboard screen" width="240" /></td>
-    <td align="center"><img src="screenshots/future.png" alt="Future screen" width="240" /></td>
+    <td align="center"><img src="screenshots/IMG_0267.png" alt="Screenshot IMG_0267" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0268.png" alt="Screenshot IMG_0268" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0269.png" alt="Screenshot IMG_0269" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0270.png" alt="Screenshot IMG_0270" width="220" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/IMG_0271.png" alt="Screenshot IMG_0271" width="220" /></td>
+    <td align="center"><img src="screenshots/IMG_0272.png" alt="Screenshot IMG_0272" width="220" /></td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
 </table>
@@ -43,7 +52,7 @@ FinanceTracker is a personal finance tracker built with SwiftUI and SwiftData. I
 ## Project Structure
 - `FinanceTracker/` — App source
 - `FinanceTracker/Assets.xcassets/` — App icons and assets
-- `screenshots/` — README screenshots showcased on GitHub
+- `screenshots/` — All screenshots showcased on GitHub
 
 ## Roadmap
 - Flutter + FastAPI + Postgres version (cross‑platform)
