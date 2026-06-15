@@ -1,6 +1,6 @@
 # FinanceTracker
 
-FinanceTracker is a personal finance tracker built with SwiftUI and SwiftData. It supports income/expense tracking, presets for recurring expenses, a dashboard with charts, and future planning for limits and upcoming payments.
+A personal finance tracker I built for managing my income and expenses with a dashboard featuring donut and bar charts for visual spending insights. Expense presets allow quick entry of recurring transactions, and a monthly selector filters entries by date range. KPI summaries show monthly and yearly totals, while daily limit tracking helps with savings projections. An upcoming payments list keeps track of bills and commitments coming due. The app is designed to be simple and focused on personal financial awareness. Built for personal use with SwiftUI, SwiftData, and Swift Charts.
 
 ## Features
 - Income and expense tracking by date
